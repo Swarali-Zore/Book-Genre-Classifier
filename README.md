@@ -1,4 +1,4 @@
-# Book-Genre-Classification
+# Book-Genre-Classifier
 
 This project focuses on classifying books into different genres based on their textual metadata such as title, description, and/or author information. The goal is to build a machine learning model that can accurately predict the genre of a book from given textual inputs.
 
